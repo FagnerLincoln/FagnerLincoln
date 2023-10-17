@@ -17,6 +17,15 @@ Atualmente curso Engenharia de Software EAD e estou aprendendo e criando projeto
  
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <a href="https://instagram.com/faglinco?igshid=OGQ5ZDc2ODk2ZA==">Clique Aqui</a>   
 
+ ![Fagner Lincoln](https://github-readme-stats.vercel.app/api?username=FagnerLincoln&hide=contribs,prs)
+
+ ![](https://komarev.com/ghpvc/?username=your-github-FagnerLincoln)
+  ![](https://komarev.com/ghpvc/?username=your-github-FagnerLincoln&color=green)
+ ![](https://komarev.com/ghpvc/?username=your-github-FagnerLincoln&color=dc143c)
+ <br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FagnerLincoln)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
