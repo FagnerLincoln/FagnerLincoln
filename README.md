@@ -12,7 +12,10 @@ Atualmente curso Engenharia de Software EAD e estou aprendendo e criando projeto
 
  Contatos:
 
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 0055 85 99219 5166
+ <br>
+ 
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <a href="https://instagram.com/faglinco?igshid=OGQ5ZDc2ODk2ZA==">Clique Aqui</a>   
 
 
 
