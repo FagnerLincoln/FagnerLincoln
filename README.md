@@ -12,7 +12,7 @@ Atualmente curso Engenharia de Software EAD e estou aprendendo e criando projeto
 
  Contatos:
 
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <a href="00 55 (85) 99219 5166">Clique aqui</a> 
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
 
 
